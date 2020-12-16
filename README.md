@@ -1,4 +1,8 @@
 # 2020
+## 7
+### 10
+This was made on July 10th
+
 ## 11
 ### 12
 This is a sample log entry created on November 12th, 2020.
