@@ -1,0 +1,1 @@
+This entry was created on February 12th 2019. Note that some logs in this repository are artifically created, outside of ghlog. This is just to demonstrate how a full ghlog repository would look.
